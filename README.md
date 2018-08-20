@@ -1,5 +1,4 @@
 # hello-world
-This is my first repository!!
 
 /*  Hello World! I am Aditya Mudgal.
 
